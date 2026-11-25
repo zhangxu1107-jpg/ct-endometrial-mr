@@ -1,0 +1,5 @@
+"set","method","Q","Q_df","Q_pval"
+"small_all13","MR Egger",7.19706870617663,11,0.782907256155988
+"small_all13","Inverse variance weighted",9.59797838437745,12,0.65118306986695
+"large_common","MR Egger",1.32524042455222,8,0.995243691885741
+"large_common","Inverse variance weighted",1.90051069766094,9,0.99294487742235

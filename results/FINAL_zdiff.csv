@@ -1,0 +1,4 @@
+"comparison","z","p"
+"A separate loci (palindromic excluded): small vs large",1.0598236966274,0.289224814149239
+"A separate loci (palindromic kept): small vs large",1.31011937348792,0.190155455470326
+"B shared SNPs: small vs large",0.616396069659046,0.537633146734201
